@@ -6,9 +6,11 @@
 /*   By: mnurkass <mnurkass@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2019/04/01 09:54:33 by mnurkass          #+#    #+#             */
-/*   Updated: 2019/04/07 10:18:02 by mnurkass         ###   ########.fr       */
+/*   Updated: 2019/04/07 10:47:48 by mnurkass         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
+
+#include "sudoku.h"
 
 void	dft_putnbr(int nb)
 {
